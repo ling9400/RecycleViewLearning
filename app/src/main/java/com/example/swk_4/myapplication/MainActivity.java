@@ -14,6 +14,9 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 关于recycleView的使用测试
+ */
 public class MainActivity extends AppCompatActivity {
 
     private RecyclerView recyclerView;
